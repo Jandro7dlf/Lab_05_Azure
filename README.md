@@ -22,7 +22,7 @@
 
    ![01](img/01.png)
 
-3. Después tendremos que darle click a Load file y tendremos que seleccionar el archivo **az104-05-vnetvm-template.json** y le damos a **Save**.
+3. Después tendremos que darle a **Edit template** y luego hacemos click a **Load file** y tendremos que seleccionar el archivo **az104-05-vnetvm-template.json** y le damos a **Save**.
 
    ![02](img/02.png)
 
@@ -38,7 +38,7 @@
 
 7. Cuando se haya creado y le demos a **Go to resource** veremos que gracias al json ya se han creado la máquina virtual, la red virtul, el nsg, etc.
 
-   ![12](img/12.png)
+   ![12](img/11.png)
 
 8. Tendremos que hacer el mismo procedimiento de antes pero creando el grupo de recursos **az104-05-rg0**, con la misma **Region** que el grupo de recursos antes creado (**East US**) y el **Name Suffix** será **0**.
 
